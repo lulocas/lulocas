@@ -6,9 +6,11 @@ I'm a software developer passionate about building applications, solving problem
 
 Currently working with web development, focusing on **JavaScript, TypeScript, React, and Node.js**. I'm particularly interested in Full Stack Development, Back-end Engineering, and using technology to create meaningful solutions.
 
+
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisa-deschamps-404a35311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-deschamps-404a35311/)
+
 
 ### 💻 Tech Stack
 
