@@ -8,7 +8,7 @@ Currently working with web development, focusing on **JavaScript, TypeScript, Re
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisa-deschamps-404a35311)
 
 ### 💻 Tech Stack
 
