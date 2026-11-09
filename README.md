@@ -48,11 +48,13 @@ Currently working with web development, focusing on **JavaScript, TypeScript, Re
 
 - **[MyFinance](https://github.com/lulocas/Project-MyFinance)** – A personal finance management application currently in development.
 
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lulocas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lulocas&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lulocas&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lulocas&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
